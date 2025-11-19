@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+My code imports the hummingbird dataset, checks its structure, and generates a cleaned subset of 5,000 observations for analysis. It identifies the number of rows, columns, and variable types (categorical vs. continuous) to understand the dataset's composition. The script uses dplyr to summarize key features such as rehabilitation centers and bird counts, and employs ggplot2 to visualize patterns. It also writes the processed subset to a new CSV file for future modeling. Overall, the code provides a complete workflow for loading, inspecting, sub-setting, summarizing, and exporting hummingbird data.
 
 ## Project Organization
 ------------
